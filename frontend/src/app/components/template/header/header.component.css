@@ -9,12 +9,12 @@
     text-decoration: none;
 }
 
-.header .logo {
-    max-height: 3.2rem;
+.header a:visited {
+    color: black;
 }
 
 .header .title-group {
-    padding-left: 2.5rem;
+    padding-left: 4rem;
 }
 
 .header .title-group i{
